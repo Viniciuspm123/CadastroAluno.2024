@@ -1,4 +1,4 @@
-## Projeto 23 (Extensão) - Sistema de Cadastro de Alunos (Console Java)
+## Projeto - Sistema de Cadastro de Alunos (Console Java)
 
 Este projeto implementa um **sistema básico de cadastro de alunos** em Java, utilizando interação via **Console (Terminal)**. O aplicativo permite cadastrar novos alunos com nome, idade e nota, e exibir a lista completa de alunos.
 
